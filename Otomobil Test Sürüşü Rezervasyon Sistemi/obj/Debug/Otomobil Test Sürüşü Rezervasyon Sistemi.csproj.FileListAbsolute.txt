@@ -1,0 +1,28 @@
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\bin\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.exe.config
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\bin\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.exe
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\bin\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.pdb
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csprojResolveAssemblyReference.cache
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form1.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Properties.Resources.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csproj.GenerateResource.Cache
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.exe
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.pdb
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form2.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form4.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form5.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form3.resources
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\bin\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.exe.config
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\bin\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.exe
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\bin\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.pdb
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csproj.AssemblyReference.cache
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form2.resources
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form3.resources
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form4.resources
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form5.resources
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form1.resources
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.exe
+C:\Users\mmeli\Desktop\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.pdb
